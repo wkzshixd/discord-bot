@@ -1,1 +1,1 @@
-init
+A bot with embedded ChatJPT v1.2
